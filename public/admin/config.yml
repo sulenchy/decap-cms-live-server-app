@@ -1,6 +1,7 @@
 backend:
   name: github
   branch: main
+  repo: sulenchy/decap-cms-live-server-app
 media_folder: "static/images/uploads" # Media files will be stored in the repo under static/images/uploads
 public_folder: "/images/uploads"
 collections:
